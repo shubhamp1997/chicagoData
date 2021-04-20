@@ -1,0 +1,10 @@
+h1 {
+    position: center;
+    height: 56px;
+    line-height: 56px;
+    padding: 20px 0;
+    border-top: 2px solid rgb(120,120,120);
+    border-bottom: 2px solid rgb(120,120,120);
+    text-align: center;
+    font-weight: bold;
+}
