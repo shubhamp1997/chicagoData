@@ -14,5 +14,4 @@ A Database project which shows various complex SQL trend queries using Oracle.
 <img width="720" alt="SVD" src="https://user-images.githubusercontent.com/50179614/115377686-79570800-a1ed-11eb-8a69-6c04eb358795.png">
 
 Contributors:
-Shubham Pandey
-Gautam Agrawal
+Shubham Pandey and Gautam Agrawal
